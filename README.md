@@ -174,6 +174,7 @@
 - [Privacy Guides](https://www.privacyguides.org/) - Curated recommendations for privacy tools and services.
 - [Techlore](https://techlore.tech/) - Privacy education, guides, and a community for improving your threat model.
 - [The New Oil](https://thenewoil.org/) - Practical, beginner-focused guide to digital privacy and security.
+- [XChat Directory](https://xchat.directory) - Free encrypted-messenger comparison with short reviews and last-reviewed dates for Signal, Session, SimpleX, Threema, Element and others.
 
 ## Organizations
 
